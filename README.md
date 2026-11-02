@@ -1,5 +1,7 @@
 # DevOps Config Generator
 
+[![CI](https://github.com/ghostland-dev/devops-config-generator/actions/workflows/ci.yml/badge.svg)](https://github.com/ghostland-dev/devops-config-generator/actions/workflows/ci.yml)
+
 Generates YAML configuration for DevOps tooling with syntax-highlighted previews.
 
 ## Features
